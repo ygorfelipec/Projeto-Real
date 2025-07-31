@@ -1,0 +1,9 @@
+
+
+https://www.lipsum.com/ (gerar textos)
+
+https://www.toptal.com/designers/htmlarrows/ (gerar símbolos HTML, entidades e códigos de caracteres ASCII)
+
+https://fonts.google.com/specimen/Poppins (fontes)
+
+https://ionic.io/ionicons (icones)
