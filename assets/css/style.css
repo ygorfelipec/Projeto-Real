@@ -253,8 +253,9 @@ small{
 .rodape{
     background: var(--cor-btn-fonte);
     color:var(--cor-fonte);
-    
+    justify-content: space-between;
     font-size: 14px;
+    align-items: center;
 }
 .rodape p{
     color: var(--cor-fonte);
@@ -299,6 +300,28 @@ ul{
     align-items: center; 
     justify-content: space-around;  
     display: flex;
+}
+.rodape img{
+    width: 100px;
+    right: 100px;
+}
+.social-media-buttons{
+    display: flex;
+    gap: 18px;
+    align-items: center;
+}
+.social-media-buttons a{
+    display: flex;
+    align-items: center;
+    width: 36px;
+    height: 40px;
+    background-color: #fff;
+    font-size: 35px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #1d1d1d;
+    box-shadow: 0px 0px 12px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow .3s ease;
 }
 /*----menu celular------*/
 .menu-celular{
