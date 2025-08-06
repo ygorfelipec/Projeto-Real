@@ -368,6 +368,9 @@ ul{
     background: var(--cor-padrao);
     color: var(--cor-btn-fonte);
 }
+/*DETALHES DO PRODUTO*/
+
+
 /*menu celular*/
 
 @media only screen and (max-width:800px){
